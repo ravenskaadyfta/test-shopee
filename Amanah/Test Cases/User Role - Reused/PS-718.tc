@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Admin do filter based on search criteria - name which already registered</description>
+   <name>PS-718</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb1c6199-c5d6-4872-ad42-f71988bf6e15</testCaseGuid>
+</TestCaseEntity>
